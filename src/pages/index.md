@@ -22,7 +22,7 @@ sections:
     posts_number: 4
     actions:
       - label: View Blog
-        url: blog/index.html
+        url: blog
         style: button
 template: advanced
 ---
